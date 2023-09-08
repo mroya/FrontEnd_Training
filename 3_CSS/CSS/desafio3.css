@@ -1,0 +1,15 @@
+#desafio-3 {
+    background-color: aqua;
+    margin: 20px;
+    padding: 15px 25px;
+    border: 3px solid #845;
+    outline: 5px none #952;
+    border-radius: 7px;
+    width: 200px;
+    height: 300px;
+}
+
+.texto-3 {
+    background-color: brown;
+    color: #fff;
+}
