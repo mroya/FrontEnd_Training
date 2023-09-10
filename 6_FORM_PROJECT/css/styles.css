@@ -38,6 +38,11 @@ textarea {
 
 textarea {
     padding: 10px 5px;
+    border-radius: 10px;
+}
+
+.container div{
+    border-radius: 10px;
 }
 
 /* page header */
